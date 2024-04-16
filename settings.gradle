@@ -1,0 +1,6 @@
+rootProject.name = 'kafka-practice'
+
+include 'kafka-producer'
+include 'kafka-consumer'
+include 'kafka-common'
+
